@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Prueba.Info.EntidadesDeNegocio/1.0.0": {
+        "runtime": {
+          "Prueba.Info.EntidadesDeNegocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prueba.Info.EntidadesDeNegocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

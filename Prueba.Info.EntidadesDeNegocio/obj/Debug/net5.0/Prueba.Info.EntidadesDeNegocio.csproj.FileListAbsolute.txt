@@ -1,0 +1,12 @@
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.EntidadesDeNegocio\bin\Debug\net5.0\Prueba.Info.EntidadesDeNegocio.deps.json
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.EntidadesDeNegocio\bin\Debug\net5.0\Prueba.Info.EntidadesDeNegocio.dll
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.EntidadesDeNegocio\bin\Debug\net5.0\ref\Prueba.Info.EntidadesDeNegocio.dll
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.EntidadesDeNegocio\bin\Debug\net5.0\Prueba.Info.EntidadesDeNegocio.pdb
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.EntidadesDeNegocio\obj\Debug\net5.0\Prueba.Info.EntidadesDeNegocio.csprojAssemblyReference.cache
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.EntidadesDeNegocio\obj\Debug\net5.0\Prueba.Info.EntidadesDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.EntidadesDeNegocio\obj\Debug\net5.0\Prueba.Info.EntidadesDeNegocio.AssemblyInfoInputs.cache
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.EntidadesDeNegocio\obj\Debug\net5.0\Prueba.Info.EntidadesDeNegocio.AssemblyInfo.cs
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.EntidadesDeNegocio\obj\Debug\net5.0\Prueba.Info.EntidadesDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.EntidadesDeNegocio\obj\Debug\net5.0\Prueba.Info.EntidadesDeNegocio.dll
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.EntidadesDeNegocio\obj\Debug\net5.0\ref\Prueba.Info.EntidadesDeNegocio.dll
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.EntidadesDeNegocio\obj\Debug\net5.0\Prueba.Info.EntidadesDeNegocio.pdb

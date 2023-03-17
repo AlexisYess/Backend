@@ -1,0 +1,17 @@
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.LogicaDeNegocio\obj\Debug\net5.0\Prueba.Info.LogicaDeNegocio.csprojAssemblyReference.cache
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.LogicaDeNegocio\obj\Debug\net5.0\Prueba.Info.LogicaDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.LogicaDeNegocio\obj\Debug\net5.0\Prueba.Info.LogicaDeNegocio.AssemblyInfoInputs.cache
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.LogicaDeNegocio\obj\Debug\net5.0\Prueba.Info.LogicaDeNegocio.AssemblyInfo.cs
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.LogicaDeNegocio\obj\Debug\net5.0\Prueba.Info.LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.LogicaDeNegocio\bin\Debug\net5.0\Prueba.Info.LogicaDeNegocio.deps.json
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.LogicaDeNegocio\bin\Debug\net5.0\Prueba.Info.LogicaDeNegocio.dll
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.LogicaDeNegocio\bin\Debug\net5.0\ref\Prueba.Info.LogicaDeNegocio.dll
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.LogicaDeNegocio\bin\Debug\net5.0\Prueba.Info.LogicaDeNegocio.pdb
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.LogicaDeNegocio\bin\Debug\net5.0\Prueba.Info.AccesoADatos.dll
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.LogicaDeNegocio\bin\Debug\net5.0\Prueba.Info.EntidadesDeNegocio.dll
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.LogicaDeNegocio\bin\Debug\net5.0\Prueba.Info.AccesoADatos.pdb
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.LogicaDeNegocio\bin\Debug\net5.0\Prueba.Info.EntidadesDeNegocio.pdb
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.LogicaDeNegocio\obj\Debug\net5.0\Prueba.Info.LogicaDeNegocio.csproj.CopyComplete
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.LogicaDeNegocio\obj\Debug\net5.0\Prueba.Info.LogicaDeNegocio.dll
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.LogicaDeNegocio\obj\Debug\net5.0\ref\Prueba.Info.LogicaDeNegocio.dll
+C:\Users\alexis\Desktop\Prueba.Info.WebApi\Prueba.Info.LogicaDeNegocio\obj\Debug\net5.0\Prueba.Info.LogicaDeNegocio.pdb

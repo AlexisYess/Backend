@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Prueba.Info.AccesoADatos\Prueba.Info.AccesoADatos.csproj" />
+    <ProjectReference Include="..\Prueba.Info.EntidadesDeNegocio\Prueba.Info.EntidadesDeNegocio.csproj" />
+  </ItemGroup>
+
+</Project>
